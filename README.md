@@ -1,7 +1,7 @@
 # General Repo
 <hr></hr>
 
-[![Generic badge](https://img.shields.io/badge/PROFILE-Under Development-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/PROFILE-Development-<COLOR>.svg)](https://shields.io/)
 
 ## <u>Uses</u>
 
