@@ -8,3 +8,7 @@
 1. Code_Bin for personal PowerShell, documentation
 1. CIP Company repo for CIP Connectivity vWan deployments
 
+## Tools
+
+VisualStudio (_Stable_)
+Windows Terminal
