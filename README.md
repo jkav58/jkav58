@@ -10,5 +10,12 @@
 
 ## Tools
 
-VisualStudio (_Stable_)
+
+VisualStudio Stable 
+
 Windows Terminal
+
+
+Azure Resource Tags Work:
+
+1. Assembling List:  [Current List](https://gist.github.com/jkav58/1a7d80937d82175b5d567e5b135c51bd)
