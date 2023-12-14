@@ -11,7 +11,8 @@
 ## Tools
 
 
-VisualStudio Stable 
+VisualStudio Insiders
+[Snippets](https://gist.github.com/jkav58/183578a5e2f40234a6e018ff58009023)
 
 Windows Terminal
 
